@@ -110,5 +110,5 @@ This project is for educational and research purposes only. It does not constitu
 Financial Market Analyst and Investment Researcher
 
 - [LinkedIn](https://www.linkedin.com/in/olalekan-akinola)
-- [Lemm Financials](https://olalekanakinola.substack.com/)
+- [Olalekan Akinola](https://olalekanakinola.substack.com/)
 - [GitHub](https://github.com/OlalekanAkinola)
